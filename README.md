@@ -29,7 +29,7 @@ flight_controller.cpp: main function, send control signal to the DJI flight cont
 
 ## result
 
+The result was carried in Zhijiang campus, Zhejiang Univ.. Target lost at last.
+
 ![image](https://github.com/SuboOx/DJI-M100-Drone-Based-Tracking/edit/master/result.gif)
-
-
 
