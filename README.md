@@ -27,7 +27,9 @@ mission_planner.cpp: controller.
 
 flight_controller.cpp: main function, send control signal to the DJI flight controller.
 
-## result
+![image](https://github.com/SuboOx/DJI-M100-Drone-Based-Tracking/blob/master/structure.png)
+
+## Result
 
 The result was carried in Zhijiang campus, Zhejiang Univ.. Target lost at last.
 
